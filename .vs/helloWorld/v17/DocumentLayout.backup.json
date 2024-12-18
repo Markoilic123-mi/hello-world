@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Parpil\\source\\hello-world\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\parpil\\source\\hello-world\\src\\consoleapp1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\parpil\\source\\hello-world\\src\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\parpil\\source\\hello-world\\src\\consoleapp1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:src\\consoleapp1\\app1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5D0768F-6689-4238-8596-937011A1C341}|src\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\parpil\\source\\hello-world\\src\\consoleapp1\\telefon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -32,27 +32,27 @@
               "RelativeDocumentMoniker": "src\\ConsoleApp1\\Telefon.cs",
               "ToolTip": "C:\\Users\\Parpil\\source\\hello-world\\src\\ConsoleApp1\\Telefon.cs",
               "RelativeToolTip": "src\\ConsoleApp1\\Telefon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T22:47:52.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "App1.cs",
               "DocumentMoniker": "C:\\Users\\Parpil\\source\\hello-world\\src\\ConsoleApp1\\App1.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp1\\App1.cs",
               "ToolTip": "C:\\Users\\Parpil\\source\\hello-world\\src\\ConsoleApp1\\App1.cs",
               "RelativeToolTip": "src\\ConsoleApp1\\App1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T22:46:14.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Parpil\\source\\hello-world\\src\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "src\\ConsoleApp1\\Program.cs",
